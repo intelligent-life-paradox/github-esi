@@ -1,2 +1,2 @@
 # github-esi
-repositório para prática de github em sala de aual
+repositório para prática de github em sala de aula
